@@ -1,11 +1,5 @@
-<h3 align="left">0x1args</h3>
-
-###
 
 () => Society.To\<void\>();
-
-throw new Exception();
-
 
 ###
 

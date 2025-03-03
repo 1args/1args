@@ -1,8 +1,6 @@
 
 () => Society.To\<void\>();
 
-###
-
 ### Languages and tools
 
 ![c#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logoColor=#ffffff)
@@ -18,5 +16,3 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"  />
 </div>
-
-###

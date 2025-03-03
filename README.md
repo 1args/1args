@@ -14,5 +14,5 @@
 
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&?style=for-the-badge"  />
+  <img src="https://visitor-badge.laobi.icu/badge/-090909?page_id=1args.1args&?style=for-the-badge"  />
 </div>

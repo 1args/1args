@@ -16,6 +16,3 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>
 </div>
-
-
-![m](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&label=My_First_Counter&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)

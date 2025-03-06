@@ -1,18 +1,22 @@
+**() => Society.To&lt;void&gt;();**
 
-() => Society.To\<void\>();
+<body>
+     <div>
+        <img src="https://i.pinimg.com/originals/48/db/43/48db431f657fda889392d82d188211d5.gif" width="600px" height="250px" alt="About Me">
+    </div>
+    <p>
+        I am engaged in .NET development using C#. The main focus is backend development<br>
+        using Web APIs in the ASP.NET Core framework. I also have good skills in working <br>
+        with desktop applications using WPF.
+    </p>
+</body>
 
-### Languages and tools
-
-![c#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logoColor=#ffffff)
-![c#](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=dotnet)
-![c#](https://img.shields.io/badge/-ASP.NET_Core-090909?style=for-the-badge)
-![c#](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=dotnet)
-![c#](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker)
-![c#](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
-![c#](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
-![c#](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
-
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>
-</div>
+### Languages and Tools:
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-090909?style=for-the-badge)
+![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=dotnet)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)

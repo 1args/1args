@@ -5,9 +5,9 @@
         <img src="https://i.pinimg.com/originals/48/db/43/48db431f657fda889392d82d188211d5.gif" width="600px" height="250px" alt="About Me">
     </div>
     <p>
-        I am engaged in .NET development using C#. The main focus is backend development<br>
-        using Web APIs in the ASP.NET Core framework. I also have good skills in working <br>
-        with desktop applications using WPF.
+        I am engaged in .NET development using C#. The main focus is backend development using<br> 
+         Web APIs in the ASP.NET Core framework. I also have good skills in working with desktop<br>  
+         applications using WPF.
     </p>
 </body>
 

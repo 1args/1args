@@ -20,3 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>
+</div>

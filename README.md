@@ -25,7 +25,7 @@
 
 ### Planned:
 
-![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=js)
+![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
 ![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
 
 <div align="left">

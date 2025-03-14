@@ -2,7 +2,7 @@
 
 <body>
      <div>
-        <img src="48db431f657fda889392d82d188211d5.gif" width="580px" height="250px" alt="About Me">
+        <img src="https://i.pinimg.com/originals/4a/f7/96/4af796ba201b5443d8ea5e45614de3f2.gif" width="580px" height="250px" alt="About Me">
     </div>
     <p>
         I am engaged in .NET development using C#. The main focus is backend development using<br> 
@@ -32,4 +32,4 @@
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>
-</div>
+</div> 48db431f657fda889392d82d188211d5.gif

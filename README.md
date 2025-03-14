@@ -23,6 +23,11 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
 
+### Planned:
+
+![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=js)
+![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>
 </div>

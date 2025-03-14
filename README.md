@@ -26,7 +26,7 @@
 ### Planned:
 
 ![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
-![Nextjs](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=nextjs)
+![Nextjs](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 
 <div align="left">

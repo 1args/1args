@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
-![Scalar](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=scalar)
+![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>

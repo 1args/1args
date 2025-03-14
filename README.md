@@ -24,12 +24,6 @@
 ![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 
-### Planned:
-
-![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)
-![Nextjs](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>
 </div> 

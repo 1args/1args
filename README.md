@@ -22,6 +22,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 
 ### Planned:
 

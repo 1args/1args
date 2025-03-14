@@ -2,7 +2,7 @@
 
 <body>
      <div>
-        <img src="4af796ba201b5443d8ea5e45614de3f2.gif" width="580px" height="250px" alt="Image">
+        <img src="https://i.pinimg.com/originals/4a/b2/cb/4ab2cbefbe285003a99fa4660770657f.gif" width="580px" height="250px" alt="Image">
     </div>
     <p>
         I am engaged in .NET development using C#. The main focus is backend development using<br> 

@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=database)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)

@@ -16,13 +16,14 @@
 ![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=dotnet)
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=dotnet)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![SQL](https://img.shields.io/badge/-SQl-090909?style=for-the-badge&logo=SQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>

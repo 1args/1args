@@ -2,7 +2,7 @@
 
 <body>
      <div>
-        <img src="౨ৎ.jpg" alt="Image">
+        <img src="౨ৎ.jpg" alt="Image" width="200" height="200">
     </div>
     <p>
         I am engaged in .NET development using C#. The main focus is backend development using<br> 

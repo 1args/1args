@@ -2,7 +2,7 @@
 
 <body>
      <div>
-        <img src="fsdfsf.gif" alt="Image" width="500" height="400">
+        <img src="fsdfsf.gif" alt="Image" width="500" height="300">
     </div>
     <p>
         I am engaged in .NET development using C#. The main focus is backend development using<br> 

@@ -15,7 +15,6 @@
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=dotnet)
 ![WPF](https://img.shields.io/badge/-WPF-090909?style=for-the-badge&logo=dotnet)
-![EF](https://img.shields.io/badge/-Entity_Framework-090909?style=for-the-badge&logo=EF)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)

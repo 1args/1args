@@ -22,10 +22,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args&"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=1args.1args"/>
 </div> 

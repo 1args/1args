@@ -27,6 +27,4 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Scalar](https://img.shields.io/badge/-Scalar-090909?style=for-the-badge&logo=scalar)
 
-<div align="left">
-  <img src="![visitors](https://visitor-badge.glitch.me/badge?page_id=1args&left_color=green&right_color=red)"/>
-</div> 
+<img src="https://visitor-badge.glitch.me/badge?page_id=1args" alt="visitor badge"/>

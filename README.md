@@ -4,9 +4,7 @@
      <div>
         <img src="fsdfsf.gif" alt="Image" width="500" height="300">
     </div>
-    <p>
-       
-    </p>
+    <p></p>
 </body>
 
 ### Languages and Tools:

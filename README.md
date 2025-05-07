@@ -5,9 +5,7 @@
         <img src="fsdfsf.gif" alt="Image" width="500" height="300">
     </div>
     <p>
-        I am engaged in .NET development using C#. The main focus is backend development using<br> 
-         Web APIs in the ASP.NET Core framework. I also have good skills in working with desktop<br>  
-         applications using WPF.
+       
     </p>
 </body>
 

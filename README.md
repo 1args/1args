@@ -7,4 +7,6 @@
     <p></p>
 </body>
 
+Only the heart is affected
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=1args" alt="visitor badge"/>

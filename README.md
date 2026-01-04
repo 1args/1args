@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <samp>
-  () => Society.To&lt;void&gt;();
-  </samp>
+<b>() => Society.To&lt;void&gt;();</b>
 </p>
 
 ---

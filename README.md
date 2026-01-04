@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fsdfsf.gif">
+  <img src="touka.gif">
 </p>
 
 ---

@@ -2,8 +2,6 @@
   <img src="touka.gif">
 </p>
 
----
-
 <p align="left">
 () => Society.To&lt;void&gt;();
 </p>

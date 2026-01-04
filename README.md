@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/5b/24/23/5b2423b90b959e4fbf5ae797d24e27d0.gif">
 </p>
 
-<p>
+<p align="center">
   <samp>
   () => Society.To&lt;void&gt;();
   </samp>
@@ -13,6 +13,6 @@
 Below are pinned projects that represent practical experience,
 architectural decisions, code writing, and code organization ^^
      
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=1args&label=Profile%20Views&color=000000&style=flat" alt="Profile views"/>
 </p>

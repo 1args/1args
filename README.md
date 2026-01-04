@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/5b/24/23/5b2423b90b959e4fbf5ae797d24e27d0.gif">
 </p>
-<p align="center">
-  <samp>
-    // aspdotnet // architecture 
-  </samp>
-</p>
 
 ---
 <samp>

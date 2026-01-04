@@ -11,5 +11,5 @@ Below are pinned projects that represent practical experience,
 architectural decisions, code writing, and code organization ^^
      
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1args&label=Profile%0Views&color=000000&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=1args&label=Profile%20Views&color=000000&style=flat" alt="Profile views"/>
 </p>

@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
 <b>() => Society.To&lt;void&gt;();</b>
 </p>
 

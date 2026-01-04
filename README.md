@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Below are pinned projects that represent practical experience,
+Below are pinned projects that represent practical experience,<br>
 architectural decisions, code writing, and code organization ^^
 </p>
 

@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/5b/24/23/5b2423b90b959e4fbf5ae797d24e27d0.gif">
-</p>
-<samp>
+  <samp>
 () => Society.To&lt;void&gt;();
 </samp>
+</p>
+
 ---
 <p>
 Below are pinned projects that represent practical experience,

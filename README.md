@@ -2,7 +2,6 @@
   <img src="https://i.pinimg.com/originals/da/4b/76/da4b76c446348d3e6005ae278a05ee71.gif">
 </p>
 
----
 
 <p align="left">
 <b>() => Society.To&lt;void&gt;();</b>

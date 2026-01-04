@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/da/4b/76/da4b76c446348d3e6005ae278a05ee71.gif">
+  <img src="4af796ba201b5443d8ea5e45614de3f2.gif">
 </p>
-
 
 <p align="center">
 <b>() => Society.To&lt;void&gt;();</b>
